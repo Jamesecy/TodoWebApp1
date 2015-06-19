@@ -8,9 +8,9 @@ namespace TodoWebApp1.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Indexx()
+        public ActionResult Index()
         {
-           // return View();
+           return View();
         }
 
         public ActionResult About()
