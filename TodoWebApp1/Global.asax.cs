@@ -10,7 +10,7 @@ namespace TodoWebApp1
 {
     public class MvcApplication : System.Web.HttpApplication
     {
-        protected void Application_Start1()
+        protected void Application_Start()
         {
             //sdgfdfgdf
             AreaRegistration.RegisterAllAreas();
